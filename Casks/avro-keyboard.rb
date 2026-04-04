@@ -9,7 +9,7 @@ cask "avro-keyboard" do
 
   depends_on macos: ">= :sequoia"
 
-  input_method "Avro Keyboard.app"
+  input_method "Avro-Keyboard-Release/Avro Keyboard.app"
 
   caveats do
     <<~EOS
