@@ -1,5 +1,5 @@
 cask "avro-keyboard" do
-  version "v1.0.0"
+  version "v1.2.0"
   sha256 :no_check
 
   url "https://github.com/rashomon-gh/iAvro-Swift/releases/download/#{version}/Avro-Keyboard-#{version}.zip"
