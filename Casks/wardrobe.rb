@@ -2,7 +2,7 @@ cask "wardrobe" do
   version "0.0.1" # Replace with the actual release version
   sha256 :no_check 
 
-  url "https://github.com/rashomon-gh/Wardrobe/releases/download/v#{version}/Wardrobe.zip"
+  url "https://github.com/rashomon-gh/Wardrobe/releases/download/#{version}/Wardrobe.zip"
   name "Wardrobe"
   desc "Privacy-first, local macOS semantic screenshot organizer"
   homepage "https://github.com/rashomon-gh/Wardrobe"
