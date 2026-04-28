@@ -1,5 +1,5 @@
 cask "wardrobe" do
-  version "0.0.4a"
+  version "0.0.4b"
   sha256 :no_check 
 
   url "https://github.com/rashomon-gh/Wardrobe/releases/download/#{version}/Wardrobe.zip"
